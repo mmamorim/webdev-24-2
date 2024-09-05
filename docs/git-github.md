@@ -1,4 +1,5 @@
-# Git / Github
+# Git / Github 
+[*ver em pdf*](https://mmamorim.github.io/webdev-24-2/git-github.pdf)
 
 ![](./assets/git-hub.png)
 
@@ -64,8 +65,6 @@ Um commit é um snapshot de suas alterações. Use o comando git commit para cri
 ~~~bash
 git commit -m "Sua mensagem de commit aqui"
 ~~~
-
-## continua 
 
 5. Visualize o Histórico de Commits:
 
