@@ -1,6 +1,6 @@
-<img align='right' src="./assets/coding.gif" width="200">
+<img align='right' src="docs/assets/coding.gif" width="200">
 
-# Web development 2024/2 <img src="./assets/training.gif" width="40"> 
+# Web development 2024/2 <img src="docs/assets/training.gif" width="40"> 
 
 **prof. Marcelo Amorim** \
 *ver como documentação* 
@@ -9,4 +9,4 @@
 <hr>
 
 * [Home](/)
-* [Guide](guide.md "The greatest guide in the world")
+* [Git / Github](docs/git-github.md)
