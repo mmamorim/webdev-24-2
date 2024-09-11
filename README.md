@@ -10,3 +10,4 @@
 
 * [Home](/)
 * [Git / Github](docs/git-github.md)
+* [Intro Javascript](docs/intro-js.md)
