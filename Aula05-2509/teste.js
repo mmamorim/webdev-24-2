@@ -1,27 +1,24 @@
 
-
 function trecho() {
-    let e1 = document.getElementById("cxaTexto1")
-
+    let e1 = document.getElementById("cxaIdade")
     let idade = parseInt(e1.value)
-    console.log("idade",idade);    
-    let e2 = document.getElementById("resposta")
+    console.log("sua idade é ",idade)
 
-    if(idade <= 12) {
-        e2.innerText = "criança"
+    let e2 = document.getElementById("resposta")
+    //console.dir(e2)
+
+    if(idade < 12) {
+        e2.innerText = "Crianca"
     } else {
         if(idade < 18) {
             e2.innerText = "Adolescente"
         } else {
-            if(idade < 45) {
+            if(idade < 40) {
                 e2.innerText = "Adulto"
             } else {
-                e2.innerText = "Véio"
-            }
-        }
+                e2.innerText = "Véio"  
+            }                
+        }        
     }
-
-    //console.log("e2",e2.innerText);
-    
 }
 
